@@ -173,110 +173,94 @@ Also deepening:
 
 # `03` — THE WAY I BUILD
 
-### <sub>FROM UNDERSTANDING → INTELLIGENCE → ENGINEERING → IMPACT</sub>
+### FROM UNDERSTANDING → INTELLIGENCE → ENGINEERING → IMPACT
 
 <br>
 
 <table>
 <tr>
 
-<td width="25%" align="center" bgcolor="#0D1117" style="border-radius: 16px; padding: 25px; border: 1px solid rgba(169, 96, 238, 0.2);">
+<td align="center" width="25%">
 
-<br>
-
-<img src="https://img.icons8.com/fluency/96/brain.png" width="64"/>
+<img src="https://img.shields.io/badge/01-UNDERSTAND-172A4D?style=for-the-badge&labelColor=0D1117&color=315FA5"/>
 
 <br><br>
 
-### UNDERSTAND
-
-<br>
-
-Mathematics  
-Data  
-Algorithms  
-Patterns
+<img src="https://img.icons8.com/fluency/96/brain.png" width="62"/>
 
 <br><br>
 
-<sub>▸ Build intuition</sub><br>
-<sub>▸ Question assumptions</sub><br>
-<sub>▸ Find the signal</sub>
+<b>Mathematics</b><br>
+<b>Data</b><br>
+<b>Algorithms</b><br>
+<b>Patterns</b>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/QUESTION%20%E2%86%92%20ANALYZE-79A9FF?style=flat-square&labelColor=172A4D&color=172A4D"/>
 
 </td>
 
-<td width="25%" align="center" bgcolor="#0D1117" style="border-radius: 16px; padding: 25px; border: 1px solid rgba(169, 96, 238, 0.2);">
+<td align="center" width="25%">
 
-<br>
-
-<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="64"/>
+<img src="https://img.shields.io/badge/02-MODEL-35195A?style=for-the-badge&labelColor=0D1117&color=8B4DCC"/>
 
 <br><br>
 
-### MODEL
-
-<br>
-
-Experiment  
-Train  
-Validate  
-Optimize
+<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="62"/>
 
 <br><br>
 
-<sub>▸ Build the right thing</sub><br>
-<sub>▸ Measure progress</sub><br>
-<sub>▸ Iterate fast</sub>
+<b>Experiment</b><br>
+<b>Train</b><br>
+<b>Validate</b><br>
+<b>Optimize</b>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/EXPERIMENT%20%E2%86%92%20LEARN-B56BFF?style=flat-square&labelColor=35195A&color=35195A"/>
 
 </td>
 
-<td width="25%" align="center" bgcolor="#0D1117" style="border-radius: 16px; padding: 25px; border: 1px solid rgba(169, 96, 238, 0.2);">
+<td align="center" width="25%">
 
-<br>
-
-<img src="https://img.icons8.com/fluency/96/server.png" width="64"/>
+<img src="https://img.shields.io/badge/03-ENGINEER-103D39?style=for-the-badge&labelColor=0D1117&color=2FAF9D"/>
 
 <br><br>
 
-### ENGINEER
-
-<br>
-
-APIs  
-Pipelines  
-Databases  
-Infrastructure
+<img src="https://img.icons8.com/fluency/96/server.png" width="62"/>
 
 <br><br>
 
-<sub>▸ Design for scale</sub><br>
-<sub>▸ Make it robust</sub><br>
-<sub>▸ Production-ready</sub>
+<b>APIs</b><br>
+<b>Pipelines</b><br>
+<b>Databases</b><br>
+<b>Infrastructure</b>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/MODEL%20%E2%86%92%20SYSTEM-55D8C1?style=flat-square&labelColor=103D39&color=103D39"/>
 
 </td>
 
-<td width="25%" align="center" bgcolor="#0D1117" style="border-radius: 16px; padding: 25px; border: 1px solid rgba(169, 96, 238, 0.2);">
+<td align="center" width="25%">
 
-<br>
-
-<img src="https://img.icons8.com/fluency/96/rocket.png" width="64"/>
+<img src="https://img.shields.io/badge/04-SHIP-4A2B10?style=for-the-badge&labelColor=0D1117&color=C47732"/>
 
 <br><br>
 
-### SHIP
-
-<br>
-
-Deploy  
-Measure  
-Iterate  
-Improve
+<img src="https://img.icons8.com/fluency/96/rocket.png" width="62"/>
 
 <br><br>
 
-<sub>▸ Release to users</sub><br>
-<sub>▸ Gather feedback</sub><br>
-<sub>▸ Iterate relentlessly</sub>
+<b>Deploy</b><br>
+<b>Measure</b><br>
+<b>Iterate</b><br>
+<b>Improve</b>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SYSTEM%20%E2%86%92%20IMPACT-FFB45E?style=flat-square&labelColor=4A2B10&color=4A2B10"/>
 
 </td>
 
@@ -285,15 +269,37 @@ Improve
 
 <br>
 
-`RESEARCH` → `BUILD` → `DEPLOY` → `MEASURE` → `IMPROVE`
+<img src="https://img.shields.io/badge/01%20UNDERSTAND-172A4D?style=for-the-badge&logoColor=79A9FF"/>
+&nbsp;
+<img src="https://img.shields.io/badge/%E2%9E%9C-303746?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/02%20MODEL-35195A?style=for-the-badge&logoColor=B56BFF"/>
+&nbsp;
+<img src="https://img.shields.io/badge/%E2%9E%9C-303746?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/03%20ENGINEER-103D39?style=for-the-badge&logoColor=55D8C1"/>
+&nbsp;
+<img src="https://img.shields.io/badge/%E2%9E%9C-303746?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/04%20SHIP-4A2B10?style=for-the-badge&logoColor=FFB45E"/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=800" width="60%"/>
+<img src="https://img.shields.io/badge/RESEARCH-0D1117?style=for-the-badge&logoColor=79A9FF"/>
+<img src="https://img.shields.io/badge/%E2%86%92-0D1117?style=for-the-badge&logoColor=666666"/>
+<img src="https://img.shields.io/badge/BUILD-0D1117?style=for-the-badge&logoColor=B56BFF"/>
+<img src="https://img.shields.io/badge/%E2%86%92-0D1117?style=for-the-badge&logoColor=666666"/>
+<img src="https://img.shields.io/badge/DEPLOY-0D1117?style=for-the-badge&logoColor=55D8C1"/>
+<img src="https://img.shields.io/badge/%E2%86%92-0D1117?style=for-the-badge&logoColor=666666"/>
+<img src="https://img.shields.io/badge/MEASURE-0D1117?style=for-the-badge&logoColor=FFB45E"/>
+<img src="https://img.shields.io/badge/%E2%86%92-0D1117?style=for-the-badge&logoColor=666666"/>
+<img src="https://img.shields.io/badge/IMPROVE-0D1117?style=for-the-badge&logoColor=A960EE"/>
 
 <br><br>
 
-> **"The gap between a model and a product is engineering."**
+<sub>
+<b>Understand deeply. Model intelligently. Engineer properly. Ship relentlessly.</b>
+</sub>
 
 </div>
 
