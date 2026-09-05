@@ -173,60 +173,110 @@ Also deepening:
 
 # `03` — THE WAY I BUILD
 
+### <sub>FROM UNDERSTANDING → INTELLIGENCE → ENGINEERING → IMPACT</sub>
+
 <br>
 
 <table>
 <tr>
 
-<td align="center" width="25%">
+<td width="25%" align="center" bgcolor="#0D1117" style="border-radius: 16px; padding: 25px; border: 1px solid rgba(169, 96, 238, 0.2);">
 
-<img src="https://img.icons8.com/fluency/96/brain.png" width="54"/>
+<br>
+
+<img src="https://img.icons8.com/fluency/96/brain.png" width="64"/>
+
+<br><br>
 
 ### UNDERSTAND
+
+<br>
 
 Mathematics  
 Data  
 Algorithms  
 Patterns
 
+<br><br>
+
+<sub>▸ Build intuition</sub><br>
+<sub>▸ Question assumptions</sub><br>
+<sub>▸ Find the signal</sub>
+
 </td>
 
-<td align="center" width="25%">
+<td width="25%" align="center" bgcolor="#0D1117" style="border-radius: 16px; padding: 25px; border: 1px solid rgba(169, 96, 238, 0.2);">
 
-<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="54"/>
+<br>
+
+<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="64"/>
+
+<br><br>
 
 ### MODEL
+
+<br>
 
 Experiment  
 Train  
 Validate  
 Optimize
 
+<br><br>
+
+<sub>▸ Build the right thing</sub><br>
+<sub>▸ Measure progress</sub><br>
+<sub>▸ Iterate fast</sub>
+
 </td>
 
-<td align="center" width="25%">
+<td width="25%" align="center" bgcolor="#0D1117" style="border-radius: 16px; padding: 25px; border: 1px solid rgba(169, 96, 238, 0.2);">
 
-<img src="https://img.icons8.com/fluency/96/server.png" width="54"/>
+<br>
+
+<img src="https://img.icons8.com/fluency/96/server.png" width="64"/>
+
+<br><br>
 
 ### ENGINEER
+
+<br>
 
 APIs  
 Pipelines  
 Databases  
 Infrastructure
 
+<br><br>
+
+<sub>▸ Design for scale</sub><br>
+<sub>▸ Make it robust</sub><br>
+<sub>▸ Production-ready</sub>
+
 </td>
 
-<td align="center" width="25%">
+<td width="25%" align="center" bgcolor="#0D1117" style="border-radius: 16px; padding: 25px; border: 1px solid rgba(169, 96, 238, 0.2);">
 
-<img src="https://img.icons8.com/fluency/96/rocket.png" width="54"/>
+<br>
+
+<img src="https://img.icons8.com/fluency/96/rocket.png" width="64"/>
+
+<br><br>
 
 ### SHIP
+
+<br>
 
 Deploy  
 Measure  
 Iterate  
 Improve
+
+<br><br>
+
+<sub>▸ Release to users</sub><br>
+<sub>▸ Gather feedback</sub><br>
+<sub>▸ Iterate relentlessly</sub>
 
 </td>
 
@@ -236,6 +286,14 @@ Improve
 <br>
 
 `RESEARCH` → `BUILD` → `DEPLOY` → `MEASURE` → `IMPROVE`
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=800" width="60%"/>
+
+<br><br>
+
+> **"The gap between a model and a product is engineering."**
 
 </div>
 
@@ -250,7 +308,7 @@ Improve
 <table>
 <tr>
 
-<td align="center" width="33%">
+<td align="center" width="33%" bgcolor="#0D1117" style="border-radius: 16px; padding: 20px;">
 
 ### DATA
 
@@ -263,7 +321,7 @@ from messy data.
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="33%" bgcolor="#0D1117" style="border-radius: 16px; padding: 20px;">
 
 ### INTELLIGENCE
 
@@ -276,7 +334,7 @@ reason over information.
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="33%" bgcolor="#0D1117" style="border-radius: 16px; padding: 20px;">
 
 ### DEPLOYMENT
 
@@ -389,7 +447,7 @@ alt="3D GitHub Contribution Calendar"/>
 <table>
 <tr>
 
-<td align="center" width="33%">
+<td width="33%" align="center" bgcolor="#0D1117" style="border-radius: 16px; padding: 20px; border: 1px solid rgba(169, 96, 238, 0.2);">
 
 ### DEPTH
 
@@ -398,7 +456,7 @@ before abstracting.
 
 </td>
 
-<td align="center" width="33%">
+<td width="33%" align="center" bgcolor="#0D1117" style="border-radius: 16px; padding: 20px; border: 1px solid rgba(169, 96, 238, 0.2);">
 
 ### DISCIPLINE
 
@@ -407,7 +465,7 @@ every day.
 
 </td>
 
-<td align="center" width="33%">
+<td width="33%" align="center" bgcolor="#0D1117" style="border-radius: 16px; padding: 20px; border: 1px solid rgba(169, 96, 238, 0.2);">
 
 ### EXECUTION
 
