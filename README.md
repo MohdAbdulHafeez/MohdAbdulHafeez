@@ -1,10 +1,10 @@
 <div align="center">
 
-# MOHD ABDUL HAFEEZ
+# **MOHD ABDUL HAFEEZ**
 
-### Data Science · Machine Learning · Generative AI
+### **Data Science · Machine Learning · Generative AI**
 
-Building intelligent systems that turn **data into useful, deployable products**.
+**Building intelligent systems that turn data into useful, deployable products.**
 
 <br>
 
@@ -15,69 +15,68 @@ Building intelligent systems that turn **data into useful, deployable products**
 
 ---
 
-## About
+## **About**
 
 **B.Tech Computer Science Engineering · 2027**
 
-I work across **Data Science, Machine Learning, NLP and Generative AI**, with a strong focus on turning models into **practical APIs, pipelines and production-oriented systems**.
+I build across **Data Science, Machine Learning, NLP, and Generative AI**, with a focus on turning models into **practical APIs, intelligent pipelines, and production-oriented systems**.
 
-Currently building **Scanix AI**, a food intelligence platform focused on ingredient analysis, FSSAI compliance and LLM-powered reasoning.
+I care about understanding the **fundamentals behind the model**, engineering the system around it, and building solutions for **real-world problems**.
 
 ---
 
-## Core Stack
+## **Core Technologies**
 
-**Languages**
-
+**Languages**  
 `Python` · `C++` · `SQL` · `R`
 
-**Machine Learning**
-
+**Machine Learning**  
 `scikit-learn` · `PyTorch` · `TensorFlow` · `OpenCV`
 
-**Generative AI**
-
+**Generative AI**  
 `Hugging Face` · `Transformers` · `LangChain` · `LlamaIndex` · `RAG`
 
-**Data**
-
+**Data & Analytics**  
 `Pandas` · `NumPy` · `Matplotlib` · `Power BI`
 
-**Engineering**
-
+**Engineering & Deployment**  
 `FastAPI` · `Flask` · `PostgreSQL` · `MySQL` · `Redis` · `Docker` · `Git`
 
 ---
 
-## What I Focus On
+## **Engineering Approach**
 
-| Area | Focus |
-|---|---|
-| Data Science | Data analysis, feature engineering, statistical thinking |
-| Machine Learning | Model development, validation, optimization |
-| Generative AI | LLM applications, RAG, NLP, intelligent systems |
-| AI Engineering | APIs, pipelines, deployment, system design |
+**Understand → Model → Engineer → Deploy**
+
+| **Understand** | **Model** | **Engineer** | **Deploy** |
+|:---:|:---:|:---:|:---:|
+| Mathematics | Experiment | APIs | Production |
+| Data | Validate | Pipelines | Measure |
+| Algorithms | Optimize | Systems | Improve |
+
+> **Not just models that work in notebooks.  
+> Systems that work in the real world.**
 
 ---
 
-## Engineering Philosophy
+## **GitHub**
 
-> **Understand the mathematics.**  
-> **Build the model.**  
-> **Engineer the system.**  
-> **Deploy it.**  
-> **Improve it.**
+<div align="center">
 
-I am particularly interested in building AI that goes **beyond notebook experimentation** and solves genuine problems.
+<img src="https://github-readme-stats.vercel.app/api?username=MohdAbdulHafeez&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A960EE&icon_color=A960EE&text_color=C9D1D9&border_radius=12&count_private=true" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohdAbdulHafeez&theme=transparent&hide_border=true&ring=A960EE&fire=A960EE&currStreakLabel=A960EE&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777&border_radius=12" height="165"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-### BUILD · DEPLOY · LEARN · REPEAT
+### **BUILD · DEPLOY · LEARN · REPEAT**
 
-<br>
+**Open to internships, collaborations, and ambitious AI/ML opportunities.**
 
-Open to **internships, collaborations and ambitious AI/ML opportunities.**
+[**LinkedIn**](https://linkedin.com/in/MohdAbdulHafeez) · [**GitHub**](https://github.com/MohdAbdulHafeez)
 
 </div>
